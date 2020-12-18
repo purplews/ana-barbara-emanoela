@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <h1>Indie</h1>
+    <h3>Definição</h3>
+    <p>O termo inglês indie é a abreviação (no diminutivo) de independent (em português, independente) e se aplica na indústria cultural, de artes e nas apresentações ao vivo aos músicos, produtores e artistas que não possuem contratos de publicação e distribuição com grandes empresas (majors) e lançam os seus projetos independentemente.</p>
+    <h3>Origem</h3>
+    <p>O termo entrou em uso no início da década de 1980, quando muitos músicos e produtores atuaram independentemente para entrar na indústria comercial, designando um gênero musical geralmente associado ao punk rock, rock e pop, com origem no Reino Unido e crescimento nos Estados Unidos.</p>
+    <h3>Artistas e bandas</h3>
+    <p>Dentre as bandas e artistas indies, estão The Neighbourhood, YUNGBLUD, Last Dinosaurs, Story Untold, Clairo, Men I Trust, Tame Impala, TEMPOREX, Melanie Martinez, JOJI (the pink guy), Trapdoor Social, The 1975, Cigarettes After Sex, Foster the People, Alfie Templeman, The Marías, Dayglow, Oliver Tree, COIN, girl in red, The Japanese House, grouplove, Conan Gray e <b>Billie Eilish</b></p>
+    <p>Para saber mais sobre a cantora Billie Eilish <a href="https://Ana-Barbara-Emanoela.barbarachaves.repl.co"target="_self">Clique aqui</a></p>
+
+<h3>Curiosidades sobre as variações do termo "indie"</h3>
+
+       <table border="10" cellpadding="20">
+<tr>
+<td>IndieLisboa: o Festival Internacional de Cinema Independente de Lisboa</td>
+<td>Indie Music Fest: Festival no Bosque do Choupal, em Baltar, uma Celebração Artística Independente Nacional</td>
+<td>Indie rock: um neologismo para as bandas que tocam o estilo rock e não possuem contratos, mas distribuem seus CDs independentemente.</td>
+</tr>
+<tr>
+<td>Indie pop: o mesmo que o indie rock, mas na música pop.</td>
+<td>Indie game: jogos eletrônicos desenvolvidos por produtores independentes.</td>
+<td>Filmes Indie: Produções realizadas sem nenhuma apoio de grandes estudios ou com pouca interferência, geralmente de baixo orçamento.</td>
+</tr>
+</table>
+
+
+  </body>
+</html>
